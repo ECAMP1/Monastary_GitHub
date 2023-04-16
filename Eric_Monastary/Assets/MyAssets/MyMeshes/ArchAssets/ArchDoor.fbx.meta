@@ -1,0 +1,148 @@
+fileFormatVersion: 2
+guid: d9b8c2b0fb3394382b51904cdd100a11
+timeCreated: 1491765074
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: ArchDoor
+    100004: ArchRoof
+    100006: ArchRoofBase
+    100008: ArchRoofTop
+    100010: BlockLeft
+    100012: BlockRight
+    100014: StoneBlock1
+    100016: StoneBlock2
+    100018: StoneBlock3
+    100020: StoneBlock4
+    100022: Tiles1
+    100024: Tiles2
+    100026: Tiles3
+    100028: Tiles4
+    400000: //RootNode
+    400002: ArchDoor
+    400004: ArchRoof
+    400006: ArchRoofBase
+    400008: ArchRoofTop
+    400010: BlockLeft
+    400012: BlockRight
+    400014: StoneBlock1
+    400016: StoneBlock2
+    400018: StoneBlock3
+    400020: StoneBlock4
+    400022: Tiles1
+    400024: Tiles2
+    400026: Tiles3
+    400028: Tiles4
+    2300000: ArchDoor
+    2300002: ArchRoof
+    2300004: ArchRoofBase
+    2300006: ArchRoofTop
+    2300008: BlockLeft
+    2300010: BlockRight
+    2300012: StoneBlock1
+    2300014: StoneBlock2
+    2300016: StoneBlock3
+    2300018: StoneBlock4
+    2300020: Tiles1
+    2300022: Tiles2
+    2300024: Tiles3
+    2300026: Tiles4
+    3300000: ArchDoor
+    3300002: ArchRoof
+    3300004: ArchRoofBase
+    3300006: ArchRoofTop
+    3300008: BlockLeft
+    3300010: BlockRight
+    3300012: StoneBlock1
+    3300014: StoneBlock2
+    3300016: StoneBlock3
+    3300018: StoneBlock4
+    3300020: Tiles1
+    3300022: Tiles2
+    3300024: Tiles3
+    3300026: Tiles4
+    4300000: BlockLeft
+    4300002: BlockRight
+    4300004: ArchRoof
+    4300006: ArchRoofTop
+    4300008: StoneBlock1
+    4300010: StoneBlock2
+    4300012: StoneBlock3
+    4300014: StoneBlock4
+    4300016: Tiles1
+    4300018: Tiles2
+    4300020: Tiles3
+    4300022: Tiles4
+    4300024: ArchDoor
+    4300026: ArchRoofBase
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

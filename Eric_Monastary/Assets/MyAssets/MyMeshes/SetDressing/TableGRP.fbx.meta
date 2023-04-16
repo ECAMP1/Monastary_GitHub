@@ -1,0 +1,208 @@
+fileFormatVersion: 2
+guid: 52c78dffda3d04842af761b5a07c56d2
+timeCreated: 1491765066
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Plank1
+    100002: Plank10
+    100004: Plank11
+    100006: Plank12
+    100008: Plank13
+    100010: Plank14
+    100012: Plank15
+    100014: Plank16
+    100016: Plank17
+    100018: Plank18
+    100020: Plank19
+    100022: Plank20
+    100024: Plank21
+    100026: Plank22
+    100028: Plank23
+    100030: Plank24
+    100032: Plank25
+    100034: Plank26
+    100036: Plank27
+    100038: Plank28
+    100040: Plank3
+    100042: Plank5
+    100044: Plank6
+    100046: Plank7
+    100048: Plank8
+    100050: Plank9
+    100052: //RootNode
+    400000: Plank1
+    400002: Plank10
+    400004: Plank11
+    400006: Plank12
+    400008: Plank13
+    400010: Plank14
+    400012: Plank15
+    400014: Plank16
+    400016: Plank17
+    400018: Plank18
+    400020: Plank19
+    400022: Plank20
+    400024: Plank21
+    400026: Plank22
+    400028: Plank23
+    400030: Plank24
+    400032: Plank25
+    400034: Plank26
+    400036: Plank27
+    400038: Plank28
+    400040: Plank3
+    400042: Plank5
+    400044: Plank6
+    400046: Plank7
+    400048: Plank8
+    400050: Plank9
+    400052: //RootNode
+    2300000: Plank1
+    2300002: Plank10
+    2300004: Plank11
+    2300006: Plank12
+    2300008: Plank13
+    2300010: Plank14
+    2300012: Plank15
+    2300014: Plank16
+    2300016: Plank17
+    2300018: Plank18
+    2300020: Plank19
+    2300022: Plank20
+    2300024: Plank21
+    2300026: Plank22
+    2300028: Plank23
+    2300030: Plank24
+    2300032: Plank25
+    2300034: Plank26
+    2300036: Plank27
+    2300038: Plank28
+    2300040: Plank3
+    2300042: Plank5
+    2300044: Plank6
+    2300046: Plank7
+    2300048: Plank8
+    2300050: Plank9
+    3300000: Plank1
+    3300002: Plank10
+    3300004: Plank11
+    3300006: Plank12
+    3300008: Plank13
+    3300010: Plank14
+    3300012: Plank15
+    3300014: Plank16
+    3300016: Plank17
+    3300018: Plank18
+    3300020: Plank19
+    3300022: Plank20
+    3300024: Plank21
+    3300026: Plank22
+    3300028: Plank23
+    3300030: Plank24
+    3300032: Plank25
+    3300034: Plank26
+    3300036: Plank27
+    3300038: Plank28
+    3300040: Plank3
+    3300042: Plank5
+    3300044: Plank6
+    3300046: Plank7
+    3300048: Plank8
+    3300050: Plank9
+    4300000: Plank1
+    4300002: Plank3
+    4300004: Plank5
+    4300006: Plank6
+    4300008: Plank7
+    4300010: Plank8
+    4300012: Plank9
+    4300014: Plank10
+    4300016: Plank11
+    4300018: Plank12
+    4300020: Plank13
+    4300022: Plank14
+    4300024: Plank15
+    4300026: Plank16
+    4300028: Plank17
+    4300030: Plank18
+    4300032: Plank19
+    4300034: Plank20
+    4300036: Plank21
+    4300038: Plank22
+    4300040: Plank23
+    4300042: Plank24
+    4300044: Plank25
+    4300046: Plank26
+    4300048: Plank27
+    4300050: Plank28
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
